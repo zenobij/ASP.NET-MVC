@@ -1,0 +1,74 @@
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoMovies\MyCinema\bin\MyCinema.dll.config
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoMovies\MyCinema\bin\MyCinema.dll
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoMovies\MyCinema\bin\MyCinema.pdb
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoMovies\MyCinema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoMovies\MyCinema\bin\Microsoft.Web.Infrastructure.dll
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoMovies\MyCinema\bin\System.Web.Helpers.dll
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoMovies\MyCinema\bin\System.Web.Mvc.dll
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoMovies\MyCinema\bin\System.Web.Razor.dll
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoMovies\MyCinema\bin\System.Web.Webpages.Deployment.dll
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoMovies\MyCinema\bin\System.Web.Webpages.dll
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoMovies\MyCinema\bin\System.Web.Webpages.Razor.dll
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoMovies\MyCinema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoMovies\MyCinema\bin\System.Web.Razor.xml
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoMovies\MyCinema\bin\System.Web.Webpages.xml
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoMovies\MyCinema\bin\System.Web.Webpages.Deployment.xml
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoMovies\MyCinema\bin\System.Web.Webpages.Razor.xml
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoMovies\MyCinema\bin\System.Web.Helpers.xml
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoMovies\MyCinema\bin\System.Web.Mvc.xml
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoMovies\MyCinema\obj\Debug\MyCinema.csprojResolveAssemblyReference.cache
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoMovies\MyCinema\obj\Debug\MyCinema.csproj.CoreCompileInputs.cache
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoMovies\MyCinema\obj\Debug\MyCinema.dll
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoMovies\MyCinema\obj\Debug\MyCinema.pdb
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoMovies\MyCinema\bin\EntityFramework.dll
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoMovies\MyCinema\bin\EntityFramework.SqlServer.dll
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoMovies\MyCinema\bin\MyCinema.Data.dll
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoMovies\MyCinema\bin\MyCinema.Data.pdb
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoMovies\MyCinema\bin\MyCinema.Data.dll.config
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoMovies\MyCinema\bin\EntityFramework.xml
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoMovies\MyCinema\bin\EntityFramework.SqlServer.xml
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoMovies\MyCinema\bin\MyCinema.DTO.dll
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoMovies\MyCinema\bin\MyCinema.DTO.pdb
+C:\Users\studentdot0400\documents\visual studio 2017\Projects\ExoMovies\MyCinema\obj\Debug\MyCinema.Properties.Resources.resources
+C:\Users\studentdot0400\documents\visual studio 2017\Projects\ExoMovies\MyCinema\obj\Debug\MyCinema.csproj.GenerateResource.Cache
+C:\Users\studentdot0400\documents\visual studio 2017\Projects\ExoMovies\MyCinema\bin\PagedList.dll
+C:\Users\studentdot0400\documents\visual studio 2017\Projects\ExoMovies\MyCinema\bin\PagedList.Mvc.dll
+C:\Users\studentdot0400\documents\visual studio 2017\Projects\ExoMovies\MyCinema\bin\PagedList.xml
+C:\Users\studentdot0400\documents\visual studio 2017\Projects\ExoMovies\MyCinema\bin\PagedList.Mvc.xml
+M:\SDCdot04\ASP.NET MVC\ExoMovies\MyCinema\bin\MyCinema.dll.config
+M:\SDCdot04\ASP.NET MVC\ExoMovies\MyCinema\bin\MyCinema.dll
+M:\SDCdot04\ASP.NET MVC\ExoMovies\MyCinema\bin\MyCinema.pdb
+M:\SDCdot04\ASP.NET MVC\ExoMovies\MyCinema\bin\EntityFramework.dll
+M:\SDCdot04\ASP.NET MVC\ExoMovies\MyCinema\bin\EntityFramework.SqlServer.dll
+M:\SDCdot04\ASP.NET MVC\ExoMovies\MyCinema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+M:\SDCdot04\ASP.NET MVC\ExoMovies\MyCinema\bin\Microsoft.Web.Infrastructure.dll
+M:\SDCdot04\ASP.NET MVC\ExoMovies\MyCinema\bin\MyCinema.Data.dll
+M:\SDCdot04\ASP.NET MVC\ExoMovies\MyCinema\bin\MyCinema.DTO.dll
+M:\SDCdot04\ASP.NET MVC\ExoMovies\MyCinema\bin\PagedList.dll
+M:\SDCdot04\ASP.NET MVC\ExoMovies\MyCinema\bin\PagedList.Mvc.dll
+M:\SDCdot04\ASP.NET MVC\ExoMovies\MyCinema\bin\System.Web.Helpers.dll
+M:\SDCdot04\ASP.NET MVC\ExoMovies\MyCinema\bin\System.Web.Mvc.dll
+M:\SDCdot04\ASP.NET MVC\ExoMovies\MyCinema\bin\System.Web.Razor.dll
+M:\SDCdot04\ASP.NET MVC\ExoMovies\MyCinema\bin\System.Web.Webpages.Deployment.dll
+M:\SDCdot04\ASP.NET MVC\ExoMovies\MyCinema\bin\System.Web.Webpages.dll
+M:\SDCdot04\ASP.NET MVC\ExoMovies\MyCinema\bin\System.Web.Webpages.Razor.dll
+M:\SDCdot04\ASP.NET MVC\ExoMovies\MyCinema\bin\MyCinema.Data.pdb
+M:\SDCdot04\ASP.NET MVC\ExoMovies\MyCinema\bin\MyCinema.Data.dll.config
+M:\SDCdot04\ASP.NET MVC\ExoMovies\MyCinema\bin\MyCinema.DTO.pdb
+M:\SDCdot04\ASP.NET MVC\ExoMovies\MyCinema\bin\EntityFramework.xml
+M:\SDCdot04\ASP.NET MVC\ExoMovies\MyCinema\bin\EntityFramework.SqlServer.xml
+M:\SDCdot04\ASP.NET MVC\ExoMovies\MyCinema\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+M:\SDCdot04\ASP.NET MVC\ExoMovies\MyCinema\bin\PagedList.xml
+M:\SDCdot04\ASP.NET MVC\ExoMovies\MyCinema\bin\PagedList.Mvc.xml
+M:\SDCdot04\ASP.NET MVC\ExoMovies\MyCinema\bin\System.Web.Razor.xml
+M:\SDCdot04\ASP.NET MVC\ExoMovies\MyCinema\bin\System.Web.Webpages.xml
+M:\SDCdot04\ASP.NET MVC\ExoMovies\MyCinema\bin\System.Web.Webpages.Deployment.xml
+M:\SDCdot04\ASP.NET MVC\ExoMovies\MyCinema\bin\System.Web.Webpages.Razor.xml
+M:\SDCdot04\ASP.NET MVC\ExoMovies\MyCinema\bin\System.Web.Helpers.xml
+M:\SDCdot04\ASP.NET MVC\ExoMovies\MyCinema\bin\System.Web.Mvc.xml
+M:\SDCdot04\ASP.NET MVC\ExoMovies\MyCinema\obj\Debug\MyCinema.csprojResolveAssemblyReference.cache
+M:\SDCdot04\ASP.NET MVC\ExoMovies\MyCinema\obj\Debug\MyCinema.Properties.Resources.resources
+M:\SDCdot04\ASP.NET MVC\ExoMovies\MyCinema\obj\Debug\MyCinema.csproj.GenerateResource.Cache
+M:\SDCdot04\ASP.NET MVC\ExoMovies\MyCinema\obj\Debug\MyCinema.csproj.CoreCompileInputs.cache
+M:\SDCdot04\ASP.NET MVC\ExoMovies\MyCinema\obj\Debug\MyCinema.dll
+M:\SDCdot04\ASP.NET MVC\ExoMovies\MyCinema\obj\Debug\MyCinema.pdb

@@ -1,0 +1,6 @@
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoMovies\MyCinema.DTO\bin\Debug\MyCinema.DTO.dll
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoMovies\MyCinema.DTO\bin\Debug\MyCinema.DTO.pdb
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoMovies\MyCinema.DTO\obj\Debug\MyCinema.DTO.csprojResolveAssemblyReference.cache
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoMovies\MyCinema.DTO\obj\Debug\MyCinema.DTO.csproj.CoreCompileInputs.cache
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoMovies\MyCinema.DTO\obj\Debug\MyCinema.DTO.dll
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoMovies\MyCinema.DTO\obj\Debug\MyCinema.DTO.pdb

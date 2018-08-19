@@ -1,0 +1,32 @@
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoMovies\MyCinema.Data\bin\Debug\MyCinema.Data.dll.config
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoMovies\MyCinema.Data\bin\Debug\MyCinema.Data.dll
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoMovies\MyCinema.Data\bin\Debug\MyCinema.Data.pdb
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoMovies\MyCinema.Data\bin\Debug\EntityFramework.dll
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoMovies\MyCinema.Data\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoMovies\MyCinema.Data\bin\Debug\EntityFramework.xml
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoMovies\MyCinema.Data\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoMovies\MyCinema.Data\obj\Debug\MyCinema.Data.csprojResolveAssemblyReference.cache
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoMovies\MyCinema.Data\obj\Debug\MyCinema.Data.csproj.CoreCompileInputs.cache
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoMovies\MyCinema.Data\obj\Debug\MyCinema.Data.dll
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoMovies\MyCinema.Data\obj\Debug\MyCinema.Data.pdb
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoMovies\MyCinema.Data\obj\Debug\MyCinema.Data.Migrations.CreateDB.resources
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoMovies\MyCinema.Data\obj\Debug\MyCinema.Data.csproj.GenerateResource.Cache
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoMovies\MyCinema.Data\bin\Debug\MyCinema.DTO.dll
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoMovies\MyCinema.Data\bin\Debug\MyCinema.DTO.pdb
+C:\Users\studentdot0400\documents\visual studio 2017\Projects\ExoMovies\MyCinema.Data\obj\Debug\MyCinema.Data.Migrations.SetNotNullCoverURL.resources
+M:\SDCdot04\ASP.NET MVC\ExoMovies\MyCinema.Data\bin\Debug\MyCinema.Data.dll.config
+M:\SDCdot04\ASP.NET MVC\ExoMovies\MyCinema.Data\bin\Debug\MyCinema.Data.dll
+M:\SDCdot04\ASP.NET MVC\ExoMovies\MyCinema.Data\bin\Debug\MyCinema.Data.pdb
+M:\SDCdot04\ASP.NET MVC\ExoMovies\MyCinema.Data\bin\Debug\EntityFramework.dll
+M:\SDCdot04\ASP.NET MVC\ExoMovies\MyCinema.Data\bin\Debug\EntityFramework.SqlServer.dll
+M:\SDCdot04\ASP.NET MVC\ExoMovies\MyCinema.Data\bin\Debug\MyCinema.DTO.dll
+M:\SDCdot04\ASP.NET MVC\ExoMovies\MyCinema.Data\bin\Debug\MyCinema.DTO.pdb
+M:\SDCdot04\ASP.NET MVC\ExoMovies\MyCinema.Data\bin\Debug\EntityFramework.xml
+M:\SDCdot04\ASP.NET MVC\ExoMovies\MyCinema.Data\bin\Debug\EntityFramework.SqlServer.xml
+M:\SDCdot04\ASP.NET MVC\ExoMovies\MyCinema.Data\obj\Debug\MyCinema.Data.csprojResolveAssemblyReference.cache
+M:\SDCdot04\ASP.NET MVC\ExoMovies\MyCinema.Data\obj\Debug\MyCinema.Data.Migrations.CreateDB.resources
+M:\SDCdot04\ASP.NET MVC\ExoMovies\MyCinema.Data\obj\Debug\MyCinema.Data.Migrations.SetNotNullCoverURL.resources
+M:\SDCdot04\ASP.NET MVC\ExoMovies\MyCinema.Data\obj\Debug\MyCinema.Data.csproj.GenerateResource.Cache
+M:\SDCdot04\ASP.NET MVC\ExoMovies\MyCinema.Data\obj\Debug\MyCinema.Data.csproj.CoreCompileInputs.cache
+M:\SDCdot04\ASP.NET MVC\ExoMovies\MyCinema.Data\obj\Debug\MyCinema.Data.dll
+M:\SDCdot04\ASP.NET MVC\ExoMovies\MyCinema.Data\obj\Debug\MyCinema.Data.pdb

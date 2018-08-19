@@ -1,0 +1,9 @@
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoRevision\ExoRevision.Database\bin\Debug\ExoRevision.Database.dacpac
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoRevision\ExoRevision.Database\bin\Debug\ExoRevision.Database.dll
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoRevision\ExoRevision.Database\bin\Debug\ExoRevision.Database.pdb
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoRevision\ExoRevision.Database\obj\Debug\Model.xml
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoRevision\ExoRevision.Database\obj\Debug\refactor.xml
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoRevision\ExoRevision.Database\obj\Debug\postdeploy.sql
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoRevision\ExoRevision.Database\obj\Debug\predeploy.sql
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoRevision\ExoRevision.Database\obj\Debug\ExoRevision.Database.dll
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoRevision\ExoRevision.Database\obj\Debug\ExoRevision.Database.pdb

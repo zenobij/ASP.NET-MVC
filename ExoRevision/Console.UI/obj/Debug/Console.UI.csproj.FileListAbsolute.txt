@@ -1,0 +1,16 @@
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoRevision\Console.UI\bin\Debug\Console.UI.exe.config
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoRevision\Console.UI\bin\Debug\Console.UI.exe
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoRevision\Console.UI\bin\Debug\Console.UI.pdb
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoRevision\Console.UI\bin\Debug\EntityFramework.dll
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoRevision\Console.UI\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoRevision\Console.UI\bin\Debug\ExoRevision.Data.dll
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoRevision\Console.UI\bin\Debug\ExoRevision.Data.pdb
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoRevision\Console.UI\bin\Debug\ExoRevision.Data.dll.config
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoRevision\Console.UI\bin\Debug\EntityFramework.xml
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoRevision\Console.UI\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoRevision\Console.UI\obj\Debug\Console.UI.csprojResolveAssemblyReference.cache
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoRevision\Console.UI\obj\Debug\Console.UI.csproj.CoreCompileInputs.cache
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoRevision\Console.UI\obj\Debug\Console.UI.exe
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoRevision\Console.UI\obj\Debug\Console.UI.pdb
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoRevision\Console.UI\bin\Debug\ExoRevision.DTO.dll
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoRevision\Console.UI\bin\Debug\ExoRevision.DTO.pdb

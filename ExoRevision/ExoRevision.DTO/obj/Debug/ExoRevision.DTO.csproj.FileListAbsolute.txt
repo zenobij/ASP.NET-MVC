@@ -1,0 +1,5 @@
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoRevision\ExoRevision.DTO\bin\Debug\ExoRevision.DTO.dll
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoRevision\ExoRevision.DTO\bin\Debug\ExoRevision.DTO.pdb
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoRevision\ExoRevision.DTO\obj\Debug\ExoRevision.DTO.csproj.CoreCompileInputs.cache
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoRevision\ExoRevision.DTO\obj\Debug\ExoRevision.DTO.dll
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoRevision\ExoRevision.DTO\obj\Debug\ExoRevision.DTO.pdb

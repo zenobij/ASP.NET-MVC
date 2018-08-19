@@ -1,0 +1,86 @@
+﻿@model PagedList.IPagedList<MyCinema.DTO.MovieDTO>
+@using PagedList.Mvc;
+<link href="~/Content/PagedList.css" rel="stylesheet" type="text/css" />
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+
+@using (Html.BeginForm("Index", "Movie", FormMethod.Get))
+{
+    <p>
+        Recherche : @Html.TextBox("search", ViewBag.CurrentFilter as string)
+        <input type="submit" value="OK" />
+    </p>
+}
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayName("Id")
+        </th>
+        <th>
+            @Html.DisplayName("Titre")
+        </th>
+        <th>
+            @Html.DisplayName("Réalisateur")
+        </th>
+        <th>
+            @Html.DisplayName("Date de sortie")
+        </th>
+        <th>
+            @Html.DisplayName("Résumé")
+        </th>
+        <th>
+            @Html.DisplayName("Jaquette")
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.MovieId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Director)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ReleaseDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Resume)
+            </td>
+            <td>
+                @*En razor je dis que si il n'y a pas de CoverURL je n'essaie pas de l'afficher*@
+                @if (!string.IsNullOrEmpty(item.CoverURL))
+                {
+                    <img src="@Url.Content(item.CoverURL)" width="42" height="42" alt="Image" />
+                }
+
+            </td>
+            <td>
+
+                @Html.ActionLink(" ", "Edit", new { id = item.MovieId }, new { @class = "glyphicon glyphicon-pencil", @style = "font-size:20px;" }) |
+
+                @Html.ActionLink(" ", "Details", new { id = item.MovieId }, new { @class = "glyphicon glyphicon-search", @style = "font-size:20px;" }) |
+
+                @Html.ActionLink(" ", "Delete", new { id = item.MovieId }, new { @class = "glyphicon glyphicon-remove", @style = "font-size:20px;color:red" })
+            </td>
+        </tr>
+    }
+
+</table>
+<br />
+Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) of @Model.PageCount
+@Html.PagedListPager(Model, page => Url.Action("Index",
+    new { page, sortOrder = ViewBag.CurrentSort, currentFilter = ViewBag.CurrentFilter }))

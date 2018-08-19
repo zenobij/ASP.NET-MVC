@@ -1,0 +1,6 @@
+﻿CREATE TABLE [dbo].[Fruit]
+(
+	[FruitId] INT NOT NULL PRIMARY KEY IDENTITY, 
+    [Nom] NVARCHAR(50) NOT NULL, 
+    [Couleur] NVARCHAR(50) NULL
+)

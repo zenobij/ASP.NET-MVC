@@ -1,0 +1,43 @@
+﻿@model IEnumerable<Microsoft.AspNet.Identity.EntityFramework.IdentityRole>
+
+@using ExoIdentity.Models;
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            Roles
+        </th>
+        <th>
+            nbUsers
+        </th>
+        <th>
+            Names
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @item.Name
+            </td>
+            <td>
+                @item.Users.Count
+            </td>
+            <td>
+
+                @string.Join(" ,", new ApplicationDbContext().Users.Where(u => u.Roles.Any(r => r.RoleId == item.Id)).Select(p => p.UserName).ToList());
+
+            </td>
+        </tr>
+    }
+
+</table>

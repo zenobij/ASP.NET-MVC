@@ -1,0 +1,13 @@
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ExoSignalR\TestSignalR.Data\bin\Debug\TestSignalR.Data.dll.config
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ExoSignalR\TestSignalR.Data\bin\Debug\TestSignalR.Data.dll
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ExoSignalR\TestSignalR.Data\bin\Debug\TestSignalR.Data.pdb
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ExoSignalR\TestSignalR.Data\bin\Debug\EntityFramework.dll
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ExoSignalR\TestSignalR.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ExoSignalR\TestSignalR.Data\bin\Debug\EntityFramework.xml
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ExoSignalR\TestSignalR.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ExoSignalR\TestSignalR.Data\obj\Debug\TestSignalR.Data.csprojResolveAssemblyReference.cache
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ExoSignalR\TestSignalR.Data\obj\Debug\TestSignalR.Data.csproj.CoreCompileInputs.cache
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ExoSignalR\TestSignalR.Data\obj\Debug\TestSignalR.Data.dll
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ExoSignalR\TestSignalR.Data\obj\Debug\TestSignalR.Data.pdb
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ExoSignalR\TestSignalR.Data\obj\Debug\TestSignalR.Data.Migrations.CreateDB.resources
+C:\Users\studentdot0400\Documents\Visual Studio 2017\Projects\ExoSignalR\TestSignalR.Data\obj\Debug\TestSignalR.Data.csproj.GenerateResource.Cache

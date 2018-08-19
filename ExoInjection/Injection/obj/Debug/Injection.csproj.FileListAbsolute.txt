@@ -1,0 +1,9 @@
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoInjection\Injection\bin\Debug\Injection.exe.config
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoInjection\Injection\bin\Debug\Injection.exe
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoInjection\Injection\bin\Debug\Injection.pdb
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoInjection\Injection\obj\Debug\Injection.csprojResolveAssemblyReference.cache
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoInjection\Injection\obj\Debug\Injection.csproj.CoreCompileInputs.cache
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoInjection\Injection\obj\Debug\Injection.exe
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoInjection\Injection\obj\Debug\Injection.pdb
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoInjection\Injection\bin\Debug\Ninject.dll
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoInjection\Injection\bin\Debug\Ninject.xml

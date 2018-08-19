@@ -1,0 +1,11 @@
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoInjection\Injection.Data\bin\Debug\Injection.Data.dll.config
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoInjection\Injection.Data\bin\Debug\Injection.Data.dll
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoInjection\Injection.Data\bin\Debug\Injection.Data.pdb
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoInjection\Injection.Data\bin\Debug\EntityFramework.dll
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoInjection\Injection.Data\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoInjection\Injection.Data\bin\Debug\EntityFramework.xml
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoInjection\Injection.Data\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoInjection\Injection.Data\obj\Debug\Injection.Data.csprojResolveAssemblyReference.cache
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoInjection\Injection.Data\obj\Debug\Injection.Data.csproj.CoreCompileInputs.cache
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoInjection\Injection.Data\obj\Debug\Injection.Data.dll
+c:\users\studentdot0400\documents\visual studio 2017\Projects\ExoInjection\Injection.Data\obj\Debug\Injection.Data.pdb
